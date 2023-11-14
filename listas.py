@@ -31,3 +31,4 @@ print(objetos)
 objetos2 = [['pc',4000.00], ['celular',2000.00],['chinelo',100.00]]
 print(objetos2)
 
+

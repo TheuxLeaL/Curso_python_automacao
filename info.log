@@ -1,0 +1,12 @@
+DEBUG 14/11/2023 08:36:04: Isso é uma mensagem nivel debug
+INFO 14/11/2023 08:36:04: Isso é uma mensagem nivel info
+WARNING 14/11/2023 08:36:04: Isso é uma mensagem nivel warning
+ERROR 14/11/2023 08:36:04: Isso é uma mensagem nivel error
+CRITICAL 14/11/2023 08:36:04: Isso é uma mensagem nivel critical
+WARNING 14/11/2023 08:49:36: Não é possível dividir por 0
+WARNING 14/11/2023 08:49:36: Ocorreu um erro
+INFO 14/11/2023 08:49:36: usuario X realizou cálculos no sistema.
+WARNING 14/11/2023 08:49:51: Você deve digitar um número.
+WARNING 14/11/2023 08:49:51: Não é possível dividir por 0
+WARNING 14/11/2023 08:49:51: Ocorreu um erro
+INFO 14/11/2023 08:49:51: usuario X realizou cálculos no sistema.
